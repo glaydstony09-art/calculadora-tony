@@ -37,4 +37,4 @@ Clique no link abaixo para testar a calculadora diretamente no navegador:
 
 1. Clone o repositório:
    ``bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone  https://github.com/glaydstony09-art/calculadora-tony.git
