@@ -7,6 +7,7 @@ Esta é uma calculadora simples feita com **HTML, CSS e JavaScript puro**, com d
 📦 calculadora-tony
 
  ┣ 📜 index.html
+ 
  ┗ 📜 README.md
  
 index.html → Contém todo o código da calculadora (HTML + CSS + JavaScript).
