@@ -11,6 +11,7 @@ Esta é uma calculadora simples feita com **HTML, CSS e JavaScript puro**, com d
  ┗ 📜 README.md
  
 index.html → Contém todo o código da calculadora (HTML + CSS + JavaScript).
+
 README.md → Documentação do projeto.
 
 ## 🚀 Teste Agora!
