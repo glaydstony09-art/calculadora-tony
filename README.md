@@ -6,7 +6,7 @@ Esta é uma calculadora simples feita com **HTML, CSS e JavaScript puro**, com d
 
 Clique no link abaixo para testar a calculadora diretamente no navegador:
 
-👉  https://github.com/glaydstony09-art/calculadora-tony.git
+👉  https://glaydstony.github.io/calculadora-tony/
 
 ## ✨ Funcionalidades
 
