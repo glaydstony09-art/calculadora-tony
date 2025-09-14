@@ -5,6 +5,7 @@ Esta é uma calculadora simples feita com **HTML, CSS e JavaScript puro**, com d
 📂 Estrutura do Projeto
 
 📦 calculadora-tony
+
  ┣ 📜 index.html
  ┗ 📜 README.md
  
